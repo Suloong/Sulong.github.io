@@ -1,4 +1,4 @@
-## Welcome to Suloong'blog
+## Welcome to Suloong' blog
 
 You can use the [editor on GitHub](https://github.com/Suloong/Suloong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
